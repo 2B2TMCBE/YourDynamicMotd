@@ -1,5 +1,0 @@
-name: YourDynamicMotd
-main: yourdynamicmotd.Main
-api: ["1.0.0"]
-version: "1.8"
-author: JustMaks19
