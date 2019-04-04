@@ -53,7 +53,7 @@ public class Main extends PluginBase {
   }
 
   /**
-   * This plugin will change the server motd
+   * This method will change the server motd
    * 
    * @param String motd
    */
